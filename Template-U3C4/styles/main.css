@@ -1,0 +1,114 @@
+
+body
+{
+    margin: 0;
+}
+#container
+{
+    border: 1px solid;
+    display: flex;
+}
+
+#sidebar
+{
+    
+    border: 1px solid;
+    width: 20vw;
+    padding: 1vw;
+}
+#MasaiHeading
+{
+    border: 1px solid;
+    width: 93.5%;
+    padding: .5vw;
+    font-size: 1.5vw;
+    font-weight: bold;
+    margin: auto;
+}
+#searchbar
+{
+    border: 1px solid;
+    /* margin: auto; */
+    width: 99.5%;
+    padding: .5vw;
+    height: 2.9vw;
+    outline: none;
+    font-size: 1.4vw;
+    margin-top: .5vw;
+}
+#LoginSignUpBox
+{
+    border: 1px solid;
+    width: 93.4%;
+    padding: .5vw;
+    margin: auto;
+    font-size: 1.5;
+    text-decoration: none;
+    margin-top: .5vw;
+}
+a
+{
+    border: 0px solid;
+    text-decoration: none;
+    margin-top: .5vw;
+    font-size: 1.5vw;
+
+}
+
+
+
+#main
+{
+    border: 1px solid;
+    width: 75.6vw;
+    padding: 1vw;
+    /* display: grid;
+    grid-template-columns: repeat(3,32.8%);
+    grid-gap: .5vw; */
+}
+/* .NewsImageTitleBox
+{
+    border: 1px solid;
+    padding: .5vw;
+}
+.TitleBox
+{
+    border: 1px solid;
+    width: 96%;
+    margin: auto;
+    font-size: 1.25vw;
+    text-align: justify;
+    padding: .4vw;
+}
+.ImageContentBox
+{
+    border: 1px solid;
+    padding: .4vw;
+    width: 96%;
+    margin: auto;
+    margin-top: .2vw;
+}
+.ImageBox
+{
+    border: 1px solid;
+    width: 98%;
+    margin: auto;
+    display: flex;
+}
+.Image
+{
+    border: 1px solid;
+    width: 99.75%;
+    height: 15vw;
+}
+.name
+{
+    border: 1px solid;
+    margin: auto;
+    padding: .2vw;
+    width: 96.5%;
+    margin: auto;
+    font-size: 1.5vw;
+    text-decoration: underline;
+    text-align: center;
+} */

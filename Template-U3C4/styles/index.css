@@ -1,0 +1,57 @@
+
+#main
+{
+    border: 1px solid;
+    width: 75.6vw;
+    padding: 1vw;
+    display: grid;
+    grid-template-columns: repeat(3,32.8%);
+    grid-gap: .5vw;
+}
+.NewsImageTitleBox
+{
+    border: 1px solid;
+    padding: .5vw;
+    cursor: pointer;
+}
+.TitleBox
+{
+    border: 1px solid;
+    width: 96%;
+    margin: auto;
+    font-size: 1.25vw;
+    text-align: justify;
+    padding: .4vw;
+}
+.ImageContentBox
+{
+    border: 1px solid;
+    padding: .4vw;
+    width: 96%;
+    margin: auto;
+    margin-top: .2vw;
+}
+.ImageBox
+{
+    border: 1px solid;
+    width: 98%;
+    margin: auto;
+    display: flex;
+}
+.Image
+{
+    border: 1px solid;
+    width: 99.75%;
+    height: 15vw;
+}
+.name
+{
+    border: 1px solid;
+    margin: auto;
+    padding: .2vw;
+    width: 96.5%;
+    margin: auto;
+    font-size: 1.5vw;
+    text-decoration: underline;
+    text-align: center;
+}
